@@ -19,7 +19,7 @@ h4 {
   margin-bottom: 30px;
 }
 .jumbotron {
-  background-image: url("https://i.pinimg.com/originals/1a/2b/10/1a2b1015565956a7062688c1f0e9f7ed.jpg")
+  background-color :  #FFB6C1;
   color: #fff;
   padding: 100px 25px;
   font-family: Montserrat, sans-serif;
@@ -74,7 +74,7 @@ h4 {
 }
 .panel-heading {
   color: #fff !important;
-  background-color: #f4511e !important;
+  background-color:  #FFB6C1 !important;
   padding: 25px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 0px;
@@ -94,7 +94,7 @@ h4 {
 }
 .panel-footer .btn {
   margin: 15px 0;
-  background-color: #f4511e;
+  background-color: red;
   color: #fff;
 }
 .navbar {
